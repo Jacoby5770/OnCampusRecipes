@@ -1,7 +1,6 @@
 # OnCampusRecipes
 
-... a 3-paragraph overview of the project that is written AFTER you complete
-the interviews ....
+Text messaging app that tells you recipes you can use to cook meals on campus. My group consists of Vanderbilt students, who are looking to come up with new recipes to prepare. 
 
 # Questions:
 1. How many times do you cook per week?
