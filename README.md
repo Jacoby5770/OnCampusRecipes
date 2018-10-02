@@ -2,6 +2,10 @@
 
 OnCampusRecipe is a text messaging app that gives you more recipes to use when cooking meals on campus. The app is mainly designed for college students, who are looking to come up with new recipes to prepare. 
 
+After conducting interviews with college students, they admitted to not knowing many recipes to cook offhand and looking up recipes from the Internet/asking friends and family. They were frustrated about constant overspending on groceries and a lack of nutrition as a result of not knowing many recipes. As a result, OnCampusRecipe will help suggest new recipes by pulling web pages through URLs with new recipes.
+
+User's will be able to search for recipes based on cuisine and certain ingrediants in the recipe by sending a text to the app. The app will then respond with different URLs of various recipes with the cuisine and ingrediants the user asked for. Additionally, user's will be able to add their favorite recipes with different attributes such as price, nutrition and key ingrediants. 
+
 # Questions:
 1. How many times do you cook per week?
 2. How many recipes do you know off hand?
@@ -24,8 +28,8 @@ OnCampusRecipe is a text messaging app that gives you more recipes to use when c
 and decorate cakes about once a week, and I mix drinks two or three times a week.
 
 ## Question 2: 
-1. 7 recipes
-2. 12 recipes
+1. 5 recipes
+2. 7 recipes
 3. There are a couple dozen cocktails I know how to make offhand, along with a few different
 kinds of frosting. For baked goods, I look up recipes every time because I can never
 remember the proportions correctly
