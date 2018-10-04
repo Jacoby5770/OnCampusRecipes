@@ -80,3 +80,22 @@ part of the fun of bartending!
 1. Youtube or pinterest
 2. I ask my mom or I got on YouTube
 3. Same as above.
+
+## Requirements
+   
+1. Store recipes with attributes such as steps and ingredients
+2. Keep track of cost of each recipe
+3. Keep track of user's budget
+4. Keep track of recipe duration
+5. Keep track of user's schedule
+6. Keep track of favorite recipe
+7. Keep track of user's favorite ingredient
+8. Obtain recipes with that ingredient 
+   
+## Development Approach
+   
+Based on the interview responses, there are three primary factors that lead people to choosing a recipe. These three factors are budget, time and taste. As a result, the app will need to filter out recipes based on the user's specific budget, schedule and taste. User's will have to add their budget, schedule and ingredient preferences. They also have the option to remove or edit attributes to any of the three factors. Based on user's input, there will be a function that filters the existing list of recipes to give the user option(s) on what to cook. 
+
+Each recipe will include two fields. These two fields include the ingredients and steps to execute. The ingredients field will have the title and price of each ingredient. The steps will include the process and the duration of the steps. 
+
+
